@@ -25,6 +25,6 @@ If the user wants to use the barcode reading function,the user has to give their
 Design is simple and mostly undercorated.
 
 ## 
-Using Android Studion (JAVA), Firebase(cloud storage, authorization), Google API (Barcode API)
+Using Android Studio (JAVA), Firebase(cloud storage, authorization), Google API (Barcode API)
 
 
