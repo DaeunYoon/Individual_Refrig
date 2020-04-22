@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1077927283715",
+    "firebase_url": "https://myrefrigerator-6e01e.firebaseio.com",
+    "project_id": "myrefrigerator-6e01e",
+    "storage_bucket": "myrefrigerator-6e01e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077927283715:android:eee4d9c8abecfec8519236",
+        "android_client_info": {
+          "package_name": "com.example.app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077927283715-hum6me4tnh9s54ao952hpv738majv48t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdE9fJPtH8ZaIDtg8oeQA7tNWB65e7qjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077927283715-hum6me4tnh9s54ao952hpv738majv48t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
