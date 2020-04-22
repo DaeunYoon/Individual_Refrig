@@ -22,7 +22,7 @@ If the user wants to use the barcode reading function,the user has to give their
      (options : 0 more ingredients needed recipes, 1 more ingredients needed recipes, 2 more ingredients needed recipes, 3+ more ingredients needed recipes)
 
 # Design
-Design is simple and mostly undercorated.
+Design is simple and mostly undecorated.
 
 ## 
 Using Android Studio (JAVA), Firebase(cloud storage, authorization), Google API (Barcode API)
