@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">App2</string>
+    <string name="signin">Sign in</string>
+    <string name="signup">Sign up</string>
+    <string name="logout">Log out</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="go_login">If you already have account, Sign in here</string>
+    <string name="go_signup">If you don\'t have account yet, Sign up here</string>
+    <string name="scan">Scan</string>
+    <string name="results">Results Appear here</string>
+    <string name="add">add</string>
+    <string name="input">input</string>
+    <string name="add_name">Input name</string>
+    <string name="add_number">Input amount</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <array name="categories">
+        <item>gram</item>
+        <item>number</item>
+    </array>
+    <string name="delete">Delete</string>
+    <string name="recipeName">Recipe Name</string>
+    <string name="ingredients">ingredients</string>
+
+</resources>
